@@ -1,6 +1,6 @@
 // IIFE: Immediately Invoked Function Expressions
 
-// Executing qqfunctions immediately
+// Executing functions immediately
 /* Why:
     Sometimes we need to connect our database excatly when the application starts
     Avoiding global scope pollution

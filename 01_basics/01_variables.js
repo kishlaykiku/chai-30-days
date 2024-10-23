@@ -14,14 +14,14 @@ let accountState;
 // console.log(accountId);  
 
 accountEmail = "asdjfj";     // you cannot define same variable again but change the value
-//  console.log(accountEmail);  
+// console.log(accountEmail);  
 
 var accountPass = "aushfh";   //I var we can redefine the variable and reasign the value
 // console.log(accountPass);  
 
 console.table([accountId, accountEmail, accountPass, accountCity, accountState]);
 
-// prefer not to use var.
+// Prefer not to use var.
 // because of issue in block scope and functional scope.
 
 // function scope = When a variable is declared inside a function, it is only accessible within that funtion and cannot be used outside that function.

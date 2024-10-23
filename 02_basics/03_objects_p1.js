@@ -32,7 +32,7 @@ console.log("--------");
 
 // Making function inside object
 empInfo.init = () => {
-    console.log("Kiku Production");
+    console.log("Kiku Productions");
 };
 
 empInfo.loggedInAs = function() {

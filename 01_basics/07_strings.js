@@ -8,7 +8,7 @@ console.log(`${name1}${num} value`);
 
 
 // Defining string as object
-const name2 = new String("mr-kiku-black"); // This method provides more functionalities
+const name2 = new String("mr-kiku-gawd"); // This method provides more functionalities
 
 // Displaying value of string declared as object
 console.log(name2.valueOf());

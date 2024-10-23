@@ -5,4 +5,3 @@
 
 // Statically typed language: In these types of languages, data type of variables are decided during `Compile Time`. Eg: C, C++, Java. 
 // Dynamically typed language: In these types of languages, data type of variables are decided during `Run Time`. Eg: Javascript, Python, PHP.
-
